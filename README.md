@@ -13,7 +13,7 @@
     <img width="400" align="top" src="https://github.com/ForsakenDelusion/ForsakenDelusion/blob/main/metrics.left.svg" />
   </a>
   &emsp;
-  <a href="https://github.com/WncFht">
+  <a href="https://github.com/ForsakenDelusion">
     <img width="400" align="top" src="https://github.com/ForsakenDelusion/ForsakenDelusion/blob/main/metrics.right.svg" />
   </a>
 </p>
