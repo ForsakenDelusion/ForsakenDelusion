@@ -2,8 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://forsakendelusion.online/">blog</a> ∙
-    <a href="https://delusion.uno/">building blog</a> ·
+    <a href="https://delusion.uno/">blog</a> ·
     <a href="https://space.bilibili.com/56454402/">bilibili</a>
   </samp>
 </p>
